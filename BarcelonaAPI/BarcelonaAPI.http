@@ -1,0 +1,6 @@
+@BarcelonaAPI_HostAddress = http://localhost:5226
+
+GET {{BarcelonaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
