@@ -69,4 +69,28 @@ INICIACIÓN API
 
 1. Realice inicialmente el registro (SignUp)
 2. Realice el login con las credenciales que usted ingreso en el registro, y con el token que reciba ingreselo en el authorize.
-3. Cree categorias y lo que desee para probar la aplicaión web.
+----------------------
+3. Cree las siguientes 3 Categorias:
+CategoryID | Category
+1	Hombres
+2	Mujeres
+3	Niños
+---------------------
+Cree los siguientes 12 productos 
+ProductId| ProductName | ProductDescription | Price | CategoryId
+1	UCL Camiseta hombre LOCAL |	Primera equipación 24/25 FC Barcelona | 100 | 1
+2	UCL Camiseta hombre AWAY |	Segunda equipación 24/25 FC Barcelona |	100 | 1
+3	Sudadera retro FC barcelona | Sudadera negra restro para hombre | 90 | 1
+4	Chaqueta ligera FC barcelona | Chaqueta negra street para hombre | 150	| 1
+5	UCL camiseta mujer LOCAL | Primera equipación 24/25 FC Barcelona | 100 | 2
+6	UCL camiseta mujer AWAY	| Segunda equipación 24/25 FC Barcelona | 100 |	2
+7	Chaqueta ligera Mujer |	Chaqueta ligera beige Barça – Mujer | 120 | 2
+8	Camisa de viaje Mujer | Camiseta de viaje Barça Nike - Mujer | 80 | 2
+9	Conjunto LOCAL FC Barcelona | Niño/a pequeño/a | 70	| 3
+10	Conjunto AWAY FC Barcelona | Niño/a pequeño/a | 70 | 3
+11	Sudadera negra Barça Nike | Junior sudadera negra | 90 | 3
+12	Sudadera Barça con cremallera | Junior sudadera gris | 70 | 3
+
+--------------------------------
+SIGUIENTE PASO ----------> https://github.com/JuanFernandoo/fcbarcelonafront
+
