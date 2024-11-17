@@ -71,34 +71,21 @@ audience: "https://localhost:7199"
 INICIACIÓN API
 
 1. Realice inicialmente el registro (SignUp)
+![image](https://github.com/user-attachments/assets/150eb0bc-d54f-4d3c-a186-a6a3420edbed)
+
 2. Realice el login con las credenciales que usted ingreso en el registro, y con el token que reciba ingreselo en el authorize.
+![image](https://github.com/user-attachments/assets/cab0c19c-c678-4041-8b5b-56dbe07aed02)
+![image](https://github.com/user-attachments/assets/93ff2ebf-8ce0-4abe-93ea-b84ed11db829)
+
 ----------------------
 3. Cree las siguientes 3 Categorias:
-CategoryID | Category
-1	Hombres
-2	Mujeres
-3	Niños
 ![image](https://github.com/user-attachments/assets/a2ad8e08-a6bc-4cac-80e7-b4512cc703f1)
-
+![image](https://github.com/user-attachments/assets/26569055-3c86-4888-bd68-99a0787d31c1)
 
 ---------------------
 Cree los siguientes 12 productos 
-ProductId| ProductName | ProductDescription | Price | CategoryId
-1	UCL Camiseta hombre LOCAL |	Primera equipación 24/25 FC Barcelona | 100 | 1
-2	UCL Camiseta hombre AWAY |	Segunda equipación 24/25 FC Barcelona |	100 | 1
-3	Sudadera retro FC barcelona | Sudadera negra restro para hombre | 90 | 1
-4	Chaqueta ligera FC barcelona | Chaqueta negra street para hombre | 150	| 1
-5	UCL camiseta mujer LOCAL | Primera equipación 24/25 FC Barcelona | 100 | 2
-6	UCL camiseta mujer AWAY	| Segunda equipación 24/25 FC Barcelona | 100 |	2
-7	Chaqueta ligera Mujer |	Chaqueta ligera beige Barça – Mujer | 120 | 2
-8	Camisa de viaje Mujer | Camiseta de viaje Barça Nike - Mujer | 80 | 2
-9	Conjunto LOCAL FC Barcelona | Niño/a pequeño/a | 70	| 3
-10	Conjunto AWAY FC Barcelona | Niño/a pequeño/a | 70 | 3
-11	Sudadera negra Barça Nike | Junior sudadera negra | 90 | 3
-12	Sudadera Barça con cremallera | Junior sudadera gris | 70 | 3
-
 ![image](https://github.com/user-attachments/assets/4c7a628c-3ba8-497a-8387-37cdf6ba2dd1)
-
+![image](https://github.com/user-attachments/assets/d385e105-132a-42fc-a2ae-12f653088833)
 
 --------------------------------
 SIGUIENTE PASO ----------> https://github.com/JuanFernandoo/fcbarcelonafront
